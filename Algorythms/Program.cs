@@ -10,6 +10,7 @@ namespace Algorythms
     {
         static void Main(string[] args)
         {
+            lesson_2_2_6.GetFibNum();
         }
     }
 }
