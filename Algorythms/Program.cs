@@ -1,10 +1,13 @@
-﻿namespace Algorythms
+﻿using System;
+
+namespace Algorythms
 {
     class Program
     {
         static void Main()
         {
-            lesson_2_2_6.GetFibNum();
+            lesson_2_3_5.GetGCD();
+            Console.ReadLine();
         }
     }
 }
