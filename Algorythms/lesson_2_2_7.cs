@@ -10,7 +10,7 @@ namespace Algorythms
     соответственно, то (a+b)mod10 — последняя цифра числа Fi+2.*/
     class lesson_2_2_7
     {
-        public static void Main()
+        public static void GetLastFib()
         {
             string input = Console.ReadLine();
             long n;

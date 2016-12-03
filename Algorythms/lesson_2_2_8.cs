@@ -7,7 +7,7 @@ namespace Algorythms
     n-го числа Фибоначчи на m.*/
     class lesson_2_2_8
     {
-        public static void Main()
+        public static void GetFibMod()
         {
             string input = Console.ReadLine();
             string[] parameters = input.Split(' ');
