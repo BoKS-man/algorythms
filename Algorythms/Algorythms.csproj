@@ -50,6 +50,7 @@
     <Compile Include="lesson_2_3_5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="structs\lesson_1_1_1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
